@@ -1,0 +1,3 @@
+[submodule "team37-MobileApp"]
+	path = team37-MobileApp
+	url = https://github.com/IFMTYP-2019/team37-MobileApp.git
