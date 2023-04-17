@@ -7,3 +7,6 @@
 [submodule "team37-WebApp"]
 	path = team37-WebApp
 	url = https://github.com/IFMTYP-2019/team37-WebApp.git
+[submodule "team37-docs"]
+	path = team37-docs
+	url = https://github.com/IFMTYP-2019/team37-docs.git
